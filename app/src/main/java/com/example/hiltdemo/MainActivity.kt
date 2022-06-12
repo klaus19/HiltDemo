@@ -5,6 +5,7 @@ import android.os.Bundle
 import androidx.activity.viewModels
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
+import com.example.hiltdemo.adapter.CryptoAdapter
 import com.example.hiltdemo.model.CryptoViewmodel
 import dagger.hilt.android.AndroidEntryPoint
 
